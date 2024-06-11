@@ -13,7 +13,7 @@ Cross-Browser Compatibility: Designed to function seamlessly across different we
 ## Clone the Repository:
 
 Bash
-git clone https://github.com/your-username/age-calculator.git
+git clone https://github.com/MuhamnadMoazam/Age-Calculator.git
 Use code with caution.
 content_copy
 Open in Code Editor:
@@ -29,6 +29,6 @@ For a simpler approach, open index.html directly in your browser. However, note 
 HTML5
 CSS3
 JavaScript (ES5)
-Contributing
+
 
 Feel free to fork this repository and make improvements! We welcome pull requests for bug fixes, feature enhancements, or code style improvements. Please ensure your contributions adhere to the project's coding style and formatting guidelines.
